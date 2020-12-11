@@ -9,6 +9,8 @@ a repository for my mobile app developer internship at the sparks foundation.
 Website is developed to demonstrate online payement using debit/credit card, netbanking by clicking on donate button and receiving email of payement invoice.
 Integration done using Instamojo.
 Hosted website - https://mydonationwebsite.000webhostapp.com/
+YouTube link for the task video - 
+(The task video is also uploaded in the repository under payment gateway integration named as 'recording')
 
 As it is for testing purposes, the fake card details are as follows:
 Card number: 4242 4242 42424 4242, Expiration Date: Any Future expiry date, CVV: 111, Authentication code(OTP) - 1221
