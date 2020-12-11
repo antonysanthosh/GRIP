@@ -6,7 +6,7 @@ a repository for my mobile app developer internship at the sparks foundation.
 [![Linkedin: antonysanthosh](https://img.shields.io/badge/-antonysanthosh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonysanthosh/)](https://www.linkedin.com/in/antonysanthosh/)
 
 # Task #3 - Payment Gateway Integration
-Website is developed to demonstrate online payment using debit/credit card, net banking by clicking on donate button and receiving email of payment invoice.<br>
+A website is developed to demonstrate online payment using debit/credit card, net banking by clicking on donate button and receiving email of payment invoice.<br>
 Integration is done using Instamojo.<br>
 Hosted website - https://mydonationwebsite.000webhostapp.com/ <br>
 YouTube link for the task video - https://youtu.be/w646T7mOK1s <br>
