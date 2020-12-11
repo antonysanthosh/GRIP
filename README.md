@@ -13,4 +13,4 @@ YouTube link for the task video - <br>
 (The task video is also uploaded in the repository under payment gateway integration named as 'recording')
 
 As it is for testing purposes, the fake card details are as follows:
-Card number: 4242 4242 42424 4242, Expiration Date: Any Future expiry date, CVV: 111, Authentication code(OTP) - 1221
+Card number: 4242 4242 42424 4242, Expiration Date: Any Future expiry date, CVV: 111, Password: 1221
