@@ -8,8 +8,8 @@ a repository for my mobile app developer internship at the sparks foundation.
 # Task #3 - Payment Gateway Integration
 Website is developed to demonstrate online payment using debit/credit card, net banking by clicking on donate button and receiving email of payment invoice.<br>
 Integration is done using Instamojo.<br>
-Hosted website - https://mydonationwebsite.000webhostapp.com/<br>
-YouTube link for the task video - <br>
+Hosted website - https://mydonationwebsite.000webhostapp.com/ <br>
+YouTube link for the task video - https://youtu.be/w646T7mOK1s <br>
 (The task video is also uploaded in the repository under payment gateway integration named as 'recording')
 
 As it is for testing purposes, the fake card details are as follows:
